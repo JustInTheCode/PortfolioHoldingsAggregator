@@ -43,6 +43,14 @@ This tool is useful if you want to:
 
 No installation required — just unzip and run.
 
+> ⚠️ **Windows SmartScreen Warning**  
+> When running the `.exe` for the first time, Windows may display a SmartScreen warning:  
+> _“Windows protected your PC”_.
+>
+> This is expected for unsigned apps. To proceed: 
+> 1. Click **More info**
+> 2. Click **Run anyway**
+
 ---
 
 ## CSV Format
